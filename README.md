@@ -7,6 +7,13 @@ We decided to work on story generation.
 Our work is thus based on the following paper : 
 Cyril Chhun, Pierre Colombo, Fabian Suchanek, Chloe Clavel Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation (oral) COLING 2022
 
+**STEP 1 :**
+Find NLG data. 
 We use the following repository to access the data : 
 https://github.com/dig-team/hanna-benchmark-asg
 
+**STEP 2 :**
+Compute the metrics on the generated stories. 
+
+**STEP 3 :**
+Compute the correlation between metrics and human score 
