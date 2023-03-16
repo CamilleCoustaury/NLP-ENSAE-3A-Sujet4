@@ -17,3 +17,10 @@ Compute the metrics on the generated stories.
 
 **STEP 3 :**
 Compute the correlation between metrics and human score 
+
+
+## Acknowledgments
+
+- We used the files 'hanna_stories_annotation.csv' and 'hanna_metric_scores.csv' from the https://github.com/dig-team/hanna-benchmark-asg
+- We cloned the https://github.com/thu-coai/OpenMEVA and copied their test.py function
+
